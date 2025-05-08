@@ -1,4 +1,4 @@
-# Analyse Interactive des Performances Hôtelières avec Power BI - Atliq
+# Analyse Interactive des Performances Hôtelières avec Power BI - HOTEL GROUP
 
 ## À Propos
 
