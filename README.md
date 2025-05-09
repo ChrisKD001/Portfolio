@@ -34,7 +34,7 @@ Ma tâche consiste à concevoir un tableau de bord qui offre des informations cl
 
 Le jeu de données comprend cinq fichiers CSV couvrant les dates, les hôtels, les chambres, les réservations agrégées et les réservations individuelles. Les colonnes clés fournissent des informations sur les catégories de chambres, les détails des réservations, le nombre de clients, les revenus et les évaluations, soutenant une analyse complète des opérations hôtelières et du comportement des clients.
 
-Dans ce projet, les données ont été initialement chargées à partir de fichiers Excel dans Power BI. J'ai utilisé Power Query pour nettoyer les données en supprimant les doublons, en corrigeant les valeurs manquantes et en formatant les colonnes. Des relations ont ensuite été établies entre les tables pour permettre une analyse complète. Une table nommée "Mesures Clés" a été créée pour calculer des indicateurs importants et fournir des informations exploitables.
+Dans ce projet, les données ont été initialement chargées à partir de fichiers Excel dans Power BI. J'ai utilisé Power Query pour nettoyer les données en supprimant les doublons, en corrigeant les valeurs manquantes et en formatant les colonnes. Des relations ont ensuite été établies entre les tables pour permettre une analyse complète. Une table nommée "Mesures DAX" a été créée pour calculer ( et regrouper) des indicateurs importants et fournir des informations exploitables.
 
 À propos des fichiers, nous avons :
 
@@ -98,7 +98,7 @@ Vous pouvez consulter le tableau de bord Power BI interactif [ICI](https://githu
 
 * Le chiffre d’affaires net global est de 1709 M $.
 * Le nombre total de réservations était de 135 K.
-* Pourcentage d'annulations : 24,83%.
+* Pourcentage d'annulations : 24% - 26%
 * Le revenu moyen par réservation est de 12700 $.
 * Nombre total d’annulation : 33 521.
 * Le montant de la perte de revenus due à l’annulation est d'environ 425,72 millions de dollars.
