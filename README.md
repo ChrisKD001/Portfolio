@@ -64,7 +64,7 @@ Le RevPAR (Revenu Par Chambre Disponible), l'ADR (Tarif Journalier Moyen), le DS
 
 ## Tableau de Bord Interactif
 
-Vous pouvez consulter le tableau de bord Power BI interactif [ICI](lien_vers_votre_tableau_de_bord).
+Vous pouvez consulter le tableau de bord Power BI interactif [ICI](https://github.com/ChrisKD001/Portfolio/blob/main/Tableau%20de%20bord%20interactif%20(LIVE).md).
 
 ## Outils Utilisés
 
