@@ -6,7 +6,7 @@ Ce projet Power BI fournit des tableaux de bord interactifs pour Atliq, analysan
 
 ## Présentation Power Point
 
-À l'issue de ce travail, j’ai été amené à présenter le fruit de mon travail. Cependant, j’ai dû préparer une présentation Power Point. Vous pouvez consulter ma présentation Power Point en cliquant [ICI](lien_vers_votre_presentation).
+À l'issue de ce travail, j’ai été amené à présenter le fruit de mon travail. Cependant, j’ai dû préparer une présentation Power Point. Vous pouvez consulter ma présentation Power Point en cliquant [ICI pour fichier PDF](lien_vers_votre_presentation) ou [ICI pour fichier Power Point Animé](lien_vers_votre_presentation)
 
 ## Contexte
 
