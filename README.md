@@ -32,7 +32,7 @@ Ma tâche consiste à concevoir un tableau de bord qui offre des informations cl
 
 ## Jeu de Données
 
-Le jeu de données comprend cinq fichiers CSV couvrant les dates, les hôtels, les chambres, les réservations agrégées et les réservations individuelles. Les colonnes clés fournissent des informations sur les catégories de chambres, les détails des réservations, le nombre de clients, les revenus et les évaluations, soutenant une analyse complète des opérations hôtelières et du comportement des clients.
+Le jeu de données comprend cinq fichiers EXCEL couvrant les dates, les hôtels, les chambres, les réservations agrégées et les réservations individuelles. Les colonnes clés fournissent des informations sur les catégories de chambres, les détails des réservations, le nombre de clients, les revenus et les évaluations, soutenant une analyse complète des opérations hôtelières et du comportement des clients.
 
 Dans ce projet, les données ont été initialement chargées à partir de fichiers Excel dans Power BI. J'ai utilisé Power Query pour nettoyer les données en supprimant les doublons, en corrigeant les valeurs manquantes et en formatant les colonnes. Des relations ont ensuite été établies entre les tables pour permettre une analyse complète. Une table nommée "Mesures DAX" a été créée pour calculer ( et regrouper) des indicateurs importants et fournir des informations exploitables.
 
@@ -42,18 +42,18 @@ Dans ce projet, les données ont été initialement chargées à partir de fichi
     * Contient des informations sur les dates en mai, juin et juillet.
 * **dim\_hotels :**
     * Fournit des détails sur les hôtels.
-* **dim\_rooms :**
+* **dim\_chambre :**
     * Décrit les types de chambres disponibles dans les hôtels.
-* **fact\_aggregated\_bookings :**
+* **fact\_aggregage\_reservation :**
     * Fournit des informations agrégées sur les réservations.
-* **fact\_bookings :**
+* **fact\_reservation :**
     * Contient des informations détaillées sur les réservations.
 
 Ce jeu de données fournit des informations complètes sur les hôtels, les chambres et les réservations, facilitant l'analyse et la prise de décision dans le secteur de l'hôtellerie.
 
 ## Étapes Suivies
 
-1.  Importation des fichiers CSV dans l'éditeur Power Query.
+1.  Importation des fichiers EXCEL dans l'éditeur Power Query.
 2.  Nettoyage et transformation des données : vérification des doublons et des valeurs nulles, et assurance que le type de données de toutes les colonnes était correct.
 3.  Note : dans l'industrie hôtelière, le vendredi et le samedi sont considérés comme des week-ends, et du dimanche au jeudi comme des jours de semaine.
 4.  Création d'une colonne calculée à l'aide de DAX pour catégoriser les jours en jours de semaine ou week-ends.
