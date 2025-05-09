@@ -2,7 +2,7 @@
 
 ## À Propos
 
-Ce projet Power BI fournit des tableaux de bord interactifs pour HOTEL GROUP, analysant des indicateurs clés de performance hôtelière tels que le chiffre d'affaires, le taux d'occupation et le revenu par chambre disponible (RevPAR). Il offre des informations sur les tendances de performance hebdomadaires, l'utilisation des chambres et la satisfaction client, aidant ainsi à optimiser les opérations hôtelières et la prise de décision.
+Ce projet fournit des tableaux de bord interactifs pour HOTEL GROUP, analysant des indicateurs clés de performance hôtelière tels que le chiffre d'affaires, le taux d'occupation et le revenu par chambre disponible (RevPAR). Il offre des informations sur les tendances de performance hebdomadaires, l'utilisation des chambres et la satisfaction client, aidant ainsi à optimiser les opérations hôtelières et la prise de décision.
 
 ## Présentation Power Point
 
