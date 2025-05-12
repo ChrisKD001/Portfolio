@@ -78,9 +78,9 @@ Vous pouvez consulter le tableau de bord Power BI interactif [ICI](https://githu
 **Métriques Générales :**
 
 * Chiffre d'affaires total : 1709 millions $
-* RevPAR moyen : 7,35
+* RevPAR moyen : 7,35 k
 * Taux d'occupation moyen : 58%
-* ADR moyen : 12,7
+* ADR moyen : 12,7 k
 * % de Réalisation : 70%
 * % d'Annulation : 24% - 26%
 
