@@ -1,5 +1,8 @@
 # Analyse Interactive des Performances Hôtelières avec Power BI - HOTEL GROUP
 
+Bon a savoir
+*Ce document présente mon portfolio de travaux, accessible sur GitHub, qui démontre mes compétences et mon expérience pertinentes pour différentes missions. J'ai eu l'opportunité de travailler sur de nombreux projets pour divers clients, ce qui m'a permis d'acquérir une expérience approfondie. Cependant, la nature sensible de la plupart de ces projets et les accords de confidentialité associés m'empêchent de les partager en public. Par conséquent, mon portfolio GitHub se concentre sur un projet principal qui illustre au mieux mes capacités en analyse et visualisation de données.*
+
 ## À Propos
 
 Ce projet fournit des tableaux de bord interactifs pour HOTEL GROUP, analysant des indicateurs clés de performance hôtelière tels que le chiffre d'affaires, le taux d'occupation et le revenu par chambre disponible (RevPAR). Il offre des informations sur les tendances de performance hebdomadaires, l'utilisation des chambres et la satisfaction client, aidant ainsi à optimiser les opérations hôtelières et la prise de décision.
