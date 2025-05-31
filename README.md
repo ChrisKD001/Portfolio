@@ -2,7 +2,7 @@
 
 **Bon a savoir**
 
-*Ce document présente mon portfolio de travaux, accessible sur GitHub, qui démontre mes compétences et mon expérience pertinentes pour différentes missions. J'ai eu l'opportunité de travailler sur de nombreux projets pour divers clients, ce qui m'a permis d'acquérir une expérience approfondie. Cependant, la nature sensible de la plupart de ces projets et les accords de confidentialité associés m'empêchent de les partager en public. Par conséquent, mon portfolio GitHub se concentre sur un projet principal qui illustre au mieux mes capacités en analyse et visualisation de données.*
+*Ce document présente mon portfolio de travaux, accessible sur GitHub, qui démontre mes compétences et mon expérience pertinentes pour différentes missions. J'ai eu l'opportunité de travailler sur de nombreux projets pour divers clients, ce qui m'a permis d'acquérir une expérience approfondie. Cependant, la nature sensible de la plupart de ces projets et les accords de confidentialité associés m'empêchent de les partager en public. Par conséquent, mon portfolio GitHub se concentre sur un projet principal qui illustre au mieux mes capacités en analyse et visualisation de données. je pourrais en ajouter d'autres si possible*
 
 ## À Propos
 
