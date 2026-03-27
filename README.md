@@ -134,3 +134,13 @@ Hotel Group peut reconquérir sa part de marché en utilisant une tarification d
 ## Contact
 
 Pour toute question, veuillez envoyer un e-mail à carterchris571@gmail.com.
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-M233ZD0L78"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-M233ZD0L78');
+</script>
