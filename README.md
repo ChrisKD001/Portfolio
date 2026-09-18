@@ -6,7 +6,9 @@
 
 **Autre projet domaine de la santé:**
 (https://app.powerbi.com/view?r=eyJrIjoiOTE5YmQyYmUtODQyNC00MjEzLTk0YjAtMmQxM2FjZDM5OTRlIiwidCI6ImE4ZTU0ZWUwLWIxYTItNDEwMy1iM2M1LWY3ZDM1MGY2ODM1NiJ9)
-Projet de valorisation des données de la plateforme CDNSS (Ministère de la Santé Publique) par la Business Intelligence. L'objectif : transformer un outil administratif de gestion des dossiers (Clairance Éthique, Autorisation de Recherche) en un véritable outil de pilotage national. Une simulation Power BI réalisée sur 30 dossiers a permis de générer automatiquement des indicateurs clés : taux d'approbation, délais de traitement, taux de suivi des projets. Résultat : aide à la décision en temps réel pour plus de transparence et d'efficacité dans la gouvernance de la recherche en santé au Cameroun.
+Projet de valorisation des données de la plateforme CDNSS (Ministère de la Santé Publique) par la Business Intelligence. 
+**L'objectif :** transformer un outil administratif de gestion des dossiers (Clairance Éthique, Autorisation de Recherche) en un véritable outil de pilotage national. 
+Une simulation Power BI réalisée sur 30 dossiers a permis de générer automatiquement des indicateurs clés : taux d'approbation, délais de traitement, taux de suivi des projets. Résultat : aide à la décision en temps réel pour plus de transparence et d'efficacité dans la gouvernance de la recherche en santé au Cameroun.
 
 ## À Propos
 
