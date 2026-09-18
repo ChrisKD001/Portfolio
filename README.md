@@ -1,14 +1,19 @@
-# Analyse Interactive des Performances Hôtelières avec Power BI - HOTEL GROUP
-
 **Bon a savoir**
 
 *Ce document présente mon portfolio de travaux, accessible sur GitHub, qui démontre mes compétences et mon expérience pertinentes pour différentes missions. J'ai eu l'opportunité de travailler sur de nombreux projets pour divers clients, ce qui m'a permis d'acquérir une expérience approfondie. Cependant, la nature sensible de la plupart de ces projets et les accords de confidentialité associés m'empêchent de les partager en public. Par conséquent, mon portfolio GitHub se concentre sur un projet principal qui illustre au mieux mes capacités en analyse et visualisation de données. je pourrais en ajouter d'autres si possible*
 
-**Autre projet domaine de la santé:**
-(https://app.powerbi.com/view?r=eyJrIjoiOTE5YmQyYmUtODQyNC00MjEzLTk0YjAtMmQxM2FjZDM5OTRlIiwidCI6ImE4ZTU0ZWUwLWIxYTItNDEwMy1iM2M1LWY3ZDM1MGY2ODM1NiJ9)
+
+
+## Projet Secteur santé
+(https://app.powerbi.com/view?r=eyJrIjoiOTE5YmQyYmUtODQyNC00MjEzLTk0YjAtMmQxM2FjZDM5OTRlIiwidCI6ImE4ZTU0ZWUwLWIxYTItNDEwMy1iM2M1LWY3ZDM1MGY2ODM1NiJ9)   
 Projet de valorisation des données de la plateforme CDNSS (Ministère de la Santé Publique) par la Business Intelligence. 
+
 **L'objectif :** transformer un outil administratif de gestion des dossiers (Clairance Éthique, Autorisation de Recherche) en un véritable outil de pilotage national. 
 Une simulation Power BI réalisée sur 30 dossiers a permis de générer automatiquement des indicateurs clés : taux d'approbation, délais de traitement, taux de suivi des projets. Résultat : aide à la décision en temps réel pour plus de transparence et d'efficacité dans la gouvernance de la recherche en santé au Cameroun.
+
+
+
+# Analyse Interactive des Performances Hôtelières avec Power BI - HOTEL GROUP
 
 ## À Propos
 
